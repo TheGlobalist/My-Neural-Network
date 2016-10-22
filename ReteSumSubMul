@@ -1,0 +1,2 @@
+nome=ReteSumSubMul
+layer={ nome=layer activationFunction=ReLu inputUnits=2 outputUnits=2 }

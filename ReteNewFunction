@@ -1,0 +1,4 @@
+nome=ReteNewFunction
+layer={ nome=layer1 activationFunction=Logistic inputUnits=1 outputUnits=6 }
+layer={ nome=layer2 activationFunction=Logistic inputUnits=6 outputUnits=2 }
+layer={ nome=layer2 activationFunction=Logistic inputUnits=2 outputUnits=1 }
